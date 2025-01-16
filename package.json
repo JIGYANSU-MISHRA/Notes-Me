@@ -1,0 +1,17 @@
+{
+  "name": "notes_me",
+  "version": "1.0.0",
+  "description": "Its a simple and userfriendly Notes taking web application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Jigyansu Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.6.2"
+  }
+}
